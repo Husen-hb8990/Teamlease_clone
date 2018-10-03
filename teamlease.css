@@ -1,0 +1,1486 @@
+/*scroll to top button css*/
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color:#003399;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+#myBtn:hover {
+  background-color:#1d4d93;
+}
+
+body.apprentice{
+margin:auto;
+background-color: #f2f2f2;
+font-family: sans-serif,Arial,Verdana;
+line-height: 1.42857143;
+color: #333;
+font-size: 14px;
+padding: :0px!important;
+}
+.header-section{
+	background-color:#fff;
+min-width: 1250px;
+height: 77px;
+box-sizing: content-box;
+background: #003399;	
+}
+.apprentice .center-align{
+	width: 1250px;
+	margin: auto;
+}
+.inline-block{
+	display: inline-block;
+}
+a{
+outline: none;
+color:#337ab7;
+text-decoration: none;
+}
+a{
+	background-color: transparent;
+}
+.header-section .main-logo img{
+vertical-align: baseline;
+position: absolute;
+top:12px;
+width:186px;
+margin-left: 0px;
+height: 50px;
+}
+.float-right{
+float:right;
+}
+.margin-top-30{
+margin-top: 30px;
+}
+.vertical-align-middle{
+	vertical-align: middle;
+}
+.padding-right-30{
+	padding-right: 35px;
+}
+.employer-dropdown{
+	position: relative;
+	display: inline-block;
+}
+.emp-header-links a{
+	color:#dcdcdc;
+	text-decoration: none;
+	font-size: 15px;
+}
+.header-links a{
+	text-decoration: none;
+}
+.cursor{
+	cursor: pointer;
+}
+a{
+	outline: none;
+}
+.color-fff{
+	color: #fff;
+}
+.emp-header-links a:hover{
+	color:#fff;
+}
+.margin-top-30{
+	margin-top: 30px;
+}
+.margin-right-50{
+	margin-right: 50px;
+}
+.header-links a{
+	color:#dcdcdc;
+	font-size: 16px;
+	text-decoration: none;
+}
+.margin-right-2{
+margin-right:2px;
+}
+.header-links .separator{
+	padding:0px 10px;
+}
+.home-register{
+	background-color: #0c3e9f;
+	padding:12px 18px 12px 18px;
+	font-size: 16px;
+	margin-right: 40px;
+}
+.glyphicon{
+		font-size: 12px;
+}
+
+/*modal-login*/
+
+.modal-center {
+    display:table;
+    height: 100%;
+    width: 100%;
+    top:30%;
+    -webkit-transform: translate3d(0%, 0, 0);
+		    -ms-transform: translate3d(0%, 0, 0);
+		     -o-transform: translate3d(0%, 0, 0);
+		        transform: translate3d(0%, 0, 0);
+		        overflow-y: auto;
+}
+.close{
+  color:#000;
+}
+.close:hover{
+
+  color:red;
+  font-weight:600;  
+}
+.modal-align-center {: table-cell;vertical-align: middle; }
+.modal-content {height:inherit;margin: 0 auto; border-top:4px solid #333677;}
+.modal-title{
+  color:#1662da;
+  margin-left: 250px;
+  font-size:24px;
+  display: inline-block;
+}
+.modal-header .close{
+    margin-top: 5px;
+    font-size: 24px;
+    padding-right: 20px;
+    font-weight: normal;
+    opacity: .3;
+    display: inline-block;
+    color:#000;
+}
+.modal-header{
+  border-bottom:none;
+
+}
+.modal-body{
+    margin-top:-30px;
+}
+.modal-footer {
+  text-align: center;
+border-top:none;
+font-size: 13px;
+}
+.register:hover{
+ text-decoration: none;
+}
+.social-icons{
+      display: inline-block;
+    border: 1px solid #dcdcdc;
+    padding: 5px 5px 3px 5px;
+    box-shadow: 0px 0px 4px 0px #bfbfbf;
+    font-size: 13px;
+    color: #2a2a2a;
+}
+
+.social-icons1{
+      display: inline-block;
+    border: 1px solid #dcdcdc;
+    padding: 5px 5px 3px 5px;
+    box-shadow: 0px 0px 4px 0px #bfbfbf;
+    font-size: 13px;
+    color: #2a2a2a;
+}
+.social-icons2{
+      display: inline-block;
+    border: 1px solid #dcdcdc;
+    padding: 5px 5px 3px 5px;
+    box-shadow: 0px 0px 4px 0px #bfbfbf;
+    font-size: 13px;
+    color: #2a2a2a;
+    text-align: center;
+    margin-left: 230px;
+}
+.fade{
+	opacity: 1;
+}
+.modal-email-block {
+    border-bottom: 1px solid #acacac;
+    width: 400px;
+    margin-left: 71px;
+  
+}
+input[type=text], input[type=password] {
+   outline:none;
+}
+.vertical-align-sub {
+    vertical-align: sub;
+    display: inline-block;
+}
+
+.login-input-buttons {
+  padding: 14px 0px 10px 0px;
+    padding-bottom:0px !important;
+    width: 84%;
+    color: #000000;
+    font-size: inherit;
+    background: #fff;
+    border: none;
+    height: 40px;
+
+  }
+
+.float-left{
+	float:left;
+}
+.padding-top-10{
+padding-top: 10px;
+}
+
+
+.vertical-align-top{
+  vertical-align: top;
+}
+.float-right{
+  float: right;
+  margin-right:90px;
+  color:#000000;
+}
+.float-right .text-decoration :hover{
+  text-decoration: none;
+  color:blue;
+}
+.color-000{
+  color: #000;
+}
+#login-modal {
+    border: 1px solid #1266da;
+    width: 400px;
+    margin-left: 4px;
+    padding: 8px;
+    font-size: 16px;
+    text-align: center;
+    margin-left: 70px;
+}
+.teamlease-button-color {
+
+    background-color: #1266da;
+    color: #fff !important;
+    text-decoration: none;
+    border: 1px solid #1266da;
+    margin-top: 20px;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.05), 0 1px 2px 0 rgba(0,0,0,.1), 0 2px 1px -2px rgba(0,0,0,.2);
+}
+
+.teamlease-button-color:hover{
+	background-color:#337ab7;
+}
+.show-hide{
+	border:none;
+	background-color:#fff;
+	outline: none;
+}
+
+/*register-modal*/
+ .modal.fade:not(.in).right .modal-dialog {
+    -webkit-transform: translate3d(25%, 0, 0);
+    transform: translate3d(25%, 0, 0);
+  
+  }
+.close{
+  color:#000;
+}
+.close:hover{
+
+  color:red;
+  font-weight:600;  
+}
+.modal-align-center {: table-cell;vertical-align: middle; }
+.modal-content {height:inherit;margin: 0 auto;border-top: none;}
+.modal-title1{
+  color:#fff;
+  text-align: center;
+  font-size:18px;
+  display: inline-block;
+}
+.close{
+    margin-top: 5px;
+    font-size: 28px;
+    padding-right: 20px;
+    font-weight: normal;
+    opacity: .3;
+    display: inline-block;
+   color:#fff;
+   border: none;
+   outline: none;
+
+} 
+.modal-header1 .close:hover{
+  color:red;
+}
+.modal-header1{
+  border-bottom:none;
+  background-color: #688dc0;
+  padding:14px;
+  color:#fff;
+  text-align: center;
+}
+.modal-body{
+    margin-top:-30px;
+}
+.box-exp{
+  width: 260px;
+}
+
+.svg-logo{
+  width: 103px;
+  height: 97px;
+}
+.svg-logo1{
+  width: 103px;
+  height: 90px;
+}
+
+.inline-block{
+  display: inline-block;
+}
+.text-center{
+  text-align: center;
+}
+
+.modal-footer{
+  text-align: center;
+border-top:none;
+font-size: 13px;
+border-top:1px solid #dcdcdc;
+}
+
+.exp-modal {
+    color: #0c67d0;
+    border: 1px solid #0c67d0;
+    background: #f6fffe;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    overflow: hidden;
+    outline: 0;
+    padding: 10px;
+    width: 62%;
+    margin-left: 69px;
+    margin-top: 10px;
+}
+.exp-modal:hover{
+  background-color:#0c67d0;
+  color:#fff;
+}
+.fresher-modal {
+    color: #0c67d0;
+    border: 1px solid #0c67d0;
+    background: #f6fffe;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    overflow: hidden;
+    outline: 0;
+    padding: 10px;
+    width: 62%;
+    margin-left: 69px;
+    margin-top: 10px;
+}
+
+.fresher-modal:hover{
+  background-color:#0c67d0;
+  color:#fff;
+}
+
+
+/*register-modal-end*/
+
+
+.background-image{
+	margin-top: -25px;
+	height: 444px;
+	background-image: url("https://www.teamlease.com/assets/32a318f1/images/TL-Home-banner.jpg");
+}
+.apprenties .center-align{
+	widht:1250px;
+	margin:auto;
+}
+
+.search-heading{
+	font-size: 24px;
+	color:#274686;
+	font-weight: bold;
+	padding-right: 50px;
+	margin-bottom: 25px;
+	
+	width: 81%;
+}
+.contact-us:hover{
+text-decoration: none;
+color:#337ab7;
+}
+.contact-us-heading {
+    margin-top: 0px;
+    color: #2f3f4f;
+    font-size: 14px;
+    line-height: 29px;
+    font-weight: normal;
+}
+
+h2{
+	margin-top: 20px;
+	display: block;
+	-webkit-margin-before: 0.83em;
+    -webkit-margin-after: 0.83em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+
+.search-box-combine{
+    padding: 20px 0px 20px 6px;
+    width: 847px;
+    background: rgb(168, 182, 201);
+}
+
+.search-sub-heading{
+	padding:0px 0px 10px 23px;
+	color:#484a49;
+	font-size: 16px;
+}
+.search-block-inputs{
+	margin-left: 3%;
+}
+
+.search-inputs{
+	outline: 0px;
+	padding:1px 10px;
+	box-sizing: content-box;
+	box-shadow: 0px 1px 6px 0px #5e5d5d;
+}
+
+.search-keyword-input{
+	width: 298px;
+}
+.border-dcdcdc{
+	border:1px solid #dcdcdc;
+}
+input{
+	font-family: inherit;
+	font-size: inherit;
+	line-height: inherit;
+	margin:0px;
+	font:inherit;
+	color:inherit;
+	    -webkit-appearance: textfield;
+    background-color: white
+    cursor: text;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+}
+
+
+input[type=submit]{
+	-webkit-appearance:button;
+	cursor: pointer;
+}
+
+.teamlease-button-color {
+    background-color: #1266da;
+    color: #fff !important;
+    text-decoration: none;
+    border: 1px solid #1266da;
+}
+.search-button {
+    padding: 5px 0px 5px 0px;
+    vertical-align: bottom;
+    width: 125px;
+    margin-left:-25px;
+    text-align:center;
+    margin-bottom: 10px;
+}
+.search-button:hover{
+	background-color: #3167b5;
+}
+.font-18{
+	font-size: 18px;
+}
+.advance-search{
+	margin-right:20px;
+	color:#333;
+	cursor: pointer;
+	margin-top: -5px;
+
+}
+.advance-search:hover{
+	color:#337ab7;
+	text-decoration:none;
+	outline: none;
+}
+.text-right{
+	text-align: right;
+}
+.advsearch-toggle{
+	color:#484a49;	
+}
+.advsearch-toggle:hover{
+		text-decoration: none;	
+}
+
+.font-12{
+	font-size: 12px;
+}
+a{
+	outline: none;
+	background-color: transparent;
+text-decoration: none;
+}
+
+
+
+.select-container {
+  position: relative;
+  display: inline-block;
+  background-color:#fff;
+  &::before {
+    content: '';
+    position: absolute;
+    right: 10px;
+    top: 20px;
+    border-left: 5px solid transparent;
+	  border-right: 5px solid transparent;
+	  border-top: 6px solid #555;
+	  box-sizing: content-box;
+	  box-shadow: 0px 1px 6px 0px #5e5d5d;
+  }
+}
+
+.select-container {
+  margin: 10px 30px;
+  margin-left:1px;
+  box-sizing: content-box;
+	  box-shadow: 0px 1px 6px 0px #5e5d5d;
+	  display: inline-block;
+}
+
+.select {
+  position: relative;
+  width:125px;
+  padding: 10px 12px;
+  height:36px;
+  font-size: 13px;
+  border: 1px solid #ddd;
+  border-radius: 2px;
+  color: #5e5d5d;
+  background: transparent;
+  appearance: none;
+}
+
+.home-right-side-block {
+    margin-top: 10px;
+    padding: 23px 0px 23px 23px;
+    width: 446px;
+    padding-left: 24px;
+    background: rgba(248, 251, 250, 0.9);
+}
+#forgot-password-link{
+	text-decoration: none;
+	color:#000;
+	font-size: 12px;
+	margin-right: 80px;
+}
+#forgot-password-link:hover{
+	color: #3167b5;
+}
+.rememberme{
+	margin-left: 65px;
+	font-size: 12px;
+	color:#000;
+}
+
+a{
+	outline: none;
+	color:#337ab7;
+}
+.upload-resume-block{
+	width: 175px;
+	border:1px dashed #0e428d;
+}
+.upload-resume-head{
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 5px;
+
+}
+.upload-resume-btn{
+	    text-align: center;
+    margin-top: 1%;
+    color: #0e428d;
+    margin-bottom: 6%;
+    text-decoration: none;
+}
+
+.divider{
+	vertical-align: top;
+	margin-top: 11%;
+	padding-left: 7%;
+	font-size: 16px;
+	padding-right: 7%;
+}
+.color{
+	color:#484a49;
+}
+
+.text-center{
+	text-align: center;
+}
+.text-decoration{
+	text-decoration: none;
+}
+.register-here-btn {
+    color: #0e428d;
+    border: 1px solid #0e428d;
+    text-decoration: none;
+}
+
+.register-here-btn:hover{
+	background-color:#1d4d93;
+	color:#fff;
+}
+
+.job-alert-block{
+	padding:10px 0px 23px 0px;
+	margin-left: 5px;
+	width:392px;
+	margin-top: -20px;
+	background: linear-gradient(to right, rgba(248, 251, 250, 0.9) 88%, #e9e9e9 12%);
+}
+.alert-arrow{
+	float:right;
+	padding-top: 8.5%;
+	padding-right: 4%;
+	font-size: 48px;
+	color:#023277;
+}
+
+
+
+.jobs-by-block{
+	background:#3167b5;
+	padding:44px 0px 44px 0px;
+	color:#fff;
+	font-size:20px;
+	font-weight: bold;
+	float:left;
+	width:12%;
+	text-align: center;
+}
+.jobs-selected{
+	left:11.3%;
+	margin-top: -21px;
+	position: absolute;
+	text-align: right;
+	box-sizing: border-box;
+	border:8px solid #fff;
+	border-color: transparent transparent #3167b5 #3167b5;
+	transform: rotate(-135deg);
+}
+
+.categories-listing{
+	background:#1d4d93;
+	padding:9px 0px 5px 0px;
+	color:#fff;
+	width:88%;
+	box-sizing: border-box;
+	float:right;
+}
+
+.box-block{
+	display: inline-block;
+	width:100px;
+	height: 100px;
+	margin-left: 15px;
+}
+	
+.circle-effect1{
+	position: relative;
+	border-radius: 50%;
+	width:85px;
+	height:75px;
+	box-sizing: border-box;
+	transition: all 0.35s ease-in-out;
+}
+.circle-effect1 a:hover .spinner{
+transform: rotate(180deg);
+}
+.categories-listing a{
+	color:#fff;
+	outline: none;
+	cursor:pointer;
+}
+
+.circle-effect1 .spinner{
+	width:80px;
+	height: 80px;
+	border:5px solid #2a77e6;
+	border-right-color: #023277;
+	border-bottom-color: #023277;
+	border-radius:50%;
+	transition: all 0.8s ease-in-out;
+	margin-left: 10px;
+	margin-top: 2px;
+}
+
+.image{
+	top:2px;
+	left:-18px;	
+	position: absolute;
+	bottom:0px;
+	right:0px;
+	width:auto;
+	height: auto;
+	border-radius: 50%;
+}
+
+.jobs-category-head{
+	width: 140px;
+	text-align: center;
+	margin-top: 6px;
+	border-right:1px solid #768886;
+	height: 90px;
+}
+.bangalore-sprite{
+	background:url("https://www.teamlease.com/assets/32a318f1/images/Location-sprite-image_v1.png") 281px -5px;
+	height: 68px;
+	width: 68px;
+	margin-left: 36px;
+}
+
+.info{
+	top:5px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	margin-left: 15px;
+	background: rgba(0,0,0,0.6);
+	opacity: 0;
+	transition: all 0.8s ease-in-out;
+	position: absolute;
+	text-align: center;
+	border-radius: 50%;
+	backface-visibility: hidden;
+
+}
+.item.circle-effect1 .info .view:hover{
+	font-size: 10px;
+	margin:0px 5px;
+	padding:33px 0px 0px 0px;
+	color:#fff;
+	text-transform: uppercase;
+	position: relative;
+	letter-spacing: 2px;
+	height: 110px;
+	text-shadow: 0 0 1px #fff,0 1px 2px rgba(0,0,0,0.3);
+}
+.location-name{
+	text-align: center;
+	position: relative;
+	padding-left: 10px;
+}
+.links:hover{
+	text-decoration: none;
+}
+
+<!--hyd-image-->
+.box-block{
+width:100px;
+height: 100px;
+}
+.hyderabad-sprite{
+background:url("https://www.teamlease.com/assets/32a318f1/images/Location-sprite-image_v1.png") -5px -5px;
+	height: 68px;
+	width: 68px;
+	margin-left:36px;
+}
+
+.mumbai-sprite{
+background:url("https://www.teamlease.com/assets/32a318f1/images/Location-sprite-image_v1.png") 141px -5px;
+	height: 68px;
+	width: 68px;
+	margin-left: 36px;
+}
+.pune-sprite{
+background:url("https://www.teamlease.com/assets/32a318f1/images/Location-sprite-image_v1.png") 211px -5px;
+	height: 68px;
+	width: 68px;
+	margin-left: 36px;
+}
+
+.chennai-sprite{
+background:url("https://www.teamlease.com/assets/32a318f1/images/Location-sprite-image_v1.png") 351px -5px;
+	height: 68px;
+	width: 68px;
+	margin-left: 36px;
+}
+.delhi-sprite{
+background:url("https://www.teamlease.com/assets/32a318f1/images/Location-sprite-image_v1.png") 421px -5px;
+	height: 68px;
+	width: 68px;
+	margin-left: 36px;
+}
+.kolkata-sprite{
+background:url("https://www.teamlease.com/assets/32a318f1/images/Location-sprite-image_v1.png") 71px -5px;
+	height: 68px;
+	width: 68px;
+	margin-left: 36px;
+}
+
+.box-block{
+	display: inline-block;
+	width:100px;
+	height: 100px;
+}
+.box-block{
+	display: inline-block;
+	width:100px;
+	height: 100px;
+}
+.more-category-head{
+	margin-top: -70px;
+	margin-left: 10px;
+	border:1px solid #dcdcdc;
+	border-radius: 100%;
+	width: 64px;
+	height: 64px;
+	padding-top: 57px;
+	vertical-align: top;
+	background:#dcdcdc;
+}
+.more-category-head:hover{
+	background:#fff;
+}
+.item:hover{
+	transition: all 0.35s ease-in-out;
+}
+
+<!--companies---->
+
+.apprentice .padding-none{
+	padding: 0px;
+}
+.apperntice .center-align{
+	width:1250px;
+	margin:auto;
+}
+
+.todays-jobs {
+    margin-top: 1%;
+    padding: 10px;
+    background: #fff;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.05), 0 1px 2px 0 rgba(0,0,0,.1), 0 2px 1px -2px rgba(0,0,0,.2);
+    min-height: 248px;
+    display: inline-block;
+}
+
+
+.apprentice .padding-none{
+	padding:0px;
+}
+.left-side-block{
+	width:920px;
+	display: inline-block;
+	margin-left:30px;
+}
+.col-lg-8{
+	float: left;
+	position: relative;
+	min-height: 1px;
+
+}
+
+.trending-jobs-block{
+	background: #fff;
+	box-shadow: 0 1px 1px 0 rgba(0,0,0,.05), 0 1px 2px 0 rgba(0,0,0,.1), 0 2px 1px -2px rgba(0,0,0,.2);
+	margin-top: 5px;
+	padding:12px;
+	width: 920px;
+}
+.trend{
+	width: 920px;
+}
+.companies-head{
+	margin-top: 0%;
+	border-bottom: 1px solid #dcdcdc;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	font-size: 16px;
+	padding:0px 0px 5px 0px;
+	color:#686868;
+	font-weight: bold;
+}
+
+a{
+	outline: none;
+	color:#337ab7;
+	text-decoration: none;
+}
+
+.companies-logo{
+border:1px solid #dcdcdc;
+padding:0px 15px 0px 15px;
+}
+.margin-bottom-10{
+	margin-bottom: 10px;
+}
+.company-logos{
+	height: 44px;
+	width: 88px;
+}
+
+.margin-top-7{
+	margin-top:7px;
+}
+.padding-left-10{
+	padding-left: 10px;
+}
+.col-lg-3{
+	width:25%;
+	float:left;
+}
+.color{
+	color:#606060;
+}
+.color:hover{
+	text-decoration: none;
+}
+h1{
+	margin:.67em 0;
+}
+
+
+.todays-jobs{
+margin-top: 1%;
+    padding: 10px;
+    background: #fff;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.05), 0 1px 2px 0 rgba(0,0,0,.1), 0 2px 1px -2px rgba(0,0,0,.2);
+    min-height: 248px;
+    margin-left: 0px;
+
+}
+.col-lg-7{
+	width:500px;
+	float:left;
+	margin-right: 35px;
+}
+.trending-jobs-head{
+	margin-top: 0%;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    font-size: 16px;
+    border-bottom: 1px solid #dcdcdc;
+    padding: 0px 0px 5px 0px;
+    color: #686868;
+    font-weight: bold;
+}
+.todays-jobs-scroll{
+	height: auto;
+	overflow: auto;
+	max-height: 195px;
+
+}
+.todays-jobs-scroll::-webkit-scrollbar{
+	width:6px;
+	backgropxd-color: #F5F5F5;
+}
+.todays-jobs-scroll::-webkit-scrollbar-thumb{
+	background-color: rgb(177,177,177);
+	border-radius: 10px;
+}
+.col-lg-12{
+	float:left;
+}
+.recent{
+	width: 920px;
+}
+.margin-top-10{
+	margin-top: 10px;
+}
+
+.text-center{
+	text-align: center;
+}
+.col-lg-6{
+	width: 50%;
+	float: left;
+}
+
+
+
+.tl-app-banner-head {
+	border:1px solid #dcdcdc;
+	margin-top: 1%;
+	background: #EAEFF2;
+    background-image: url("https://www.teamlease.com/assets/32a318f1/images/TL-App-Banner-bg-image.jpg");
+    height: 300px;
+    background-repeat: no-repeat;
+}
+
+@media (min-width: 1200px)
+.col-lg-8 {
+    width: 66.66666667%;
+}
+
+.promo-head{
+	color:#fff;
+	margin-left: 10px;
+	font-weight: bold;
+}
+.promo-icon{
+	margin:8px;
+	display: table;
+}
+
+.banner-icons{
+	width: 36px;
+	height: 36px;
+	  border-radius: 50%;
+}
+.promo-text {
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 2%;
+    color: #fff;
+
+}
+.btn{
+	padding:2px 12px !important;
+}
+
+.download-btn-android {
+    margin-right: 10px;
+    color: #5E5C85;
+    padding-bottom: 0px;
+    margin-top: 15px;
+    border-radius: unset;
+    border: 1px solid #ffffff;
+    height: 38px;
+}
+.download-btn-android:hover{
+	background-color: #5E5C85;
+	color:#fff;
+}
+.pull-right{
+	float: right;
+}
+.btn-default{
+	background-color: #fff;
+}
+.btn{
+	display: inline-block;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+}
+.fa fa-andoid{
+font-size: 16px;
+	border-radius: none;
+	background-color: #fff;
+}
+.download-btn-android:hover{
+	background-color: #5E5C85;
+	color:#fff;
+	outline: none;
+}
+.float-right{
+	margin-right: 15px;
+}
+.col-lg-4{
+	
+	width: 33.33333333%;
+}
+.play{
+	width: 124px;
+	height: 42px;
+}
+.subscribe-block{
+	width:280px;
+}
+.color-777576 {
+    color: #777576;
+}
+.margin-top-20{
+	margin-top: 20px;
+}
+.right-side-content{
+	width:315px;
+	display: inline-block;
+	margin-left: 100px;
+	margin-top:-5px;
+}
+.margin-top-10{
+	margin-top: 10px;
+}
+.text-center{
+	text-align: center;
+}
+
+
+
+.carousel-container{
+	padding: 13px;
+	border:1px solid #dcdcdc;
+	background:#fff;
+	width:310px;
+	height:420px;
+	float: right;
+
+}
+.candi-comp{
+	color:#000;
+	font-size:14px; 
+}
+.candi-name{
+	color:#000;
+	font-weight: bold;
+	font-size: 14px;
+}
+.carousel-head{
+	font-size:14px;
+	margin-top: 0px;
+	border-bottom: 1px solid #dcdcdc;
+	text-align: left;
+	padding-bottom: 5px;
+	font-weight: bold;
+	color:#686868;
+}
+.carousel{
+	position: relative;
+}
+.margin-top-10{
+	margin-top: 10px;
+	float:right;
+}
+
+.footer-bottom-section{
+	background-color: #0a162d;
+    min-width: 1250px;
+    display: inline-block;
+    width: 100%;
+}
+
+.inline-block{
+	display: inline-block;
+}
+
+.footer-bottom-links{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.footer-bottom-links a:hover{
+	color:#fff;
+	text-decoration: none;
+}
+
+.contact {
+    font-size: 16px;
+    color: #b5b5b5;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #1a3057;
+}
+.contact-us{
+	color:#337ab7;
+	text-decoration: none;
+}
+
+.associate_login {
+    background: #452b5c;
+    border: 1px solid #14274b;
+    padding: 2px 10px 2px 10px;
+    font-size: 14px;
+    margin-top: -2px;
+    color: #b5b5b5;
+}
+.color-777576{
+	color:#777576;
+}
+.color-17284e{
+	color:#17284e;
+}
+.padding-right-10{
+	padding-right: 10px;
+}
+.padding-left-10{
+	padding-left: 10px;
+}
+.footer-bottom-links{
+	margin-bottom: 15px;
+}
+.contact {
+    font-size: 16px;
+    color: #b5b5b5;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #1a3057;
+}
+.follow_us{
+    padding-left: 23% !important;
+    float: right;
+    margin-top: 15px;
+}
+.social_icons {
+    padding: 18px 0px 0px 18px;
+}
+.inline-block{
+	display: inline-block;
+}
+
+.social_icons .social-icon {
+    padding: 15px 5px 5px 0px;
+}
+.inline-block{
+	display: inline-block;
+}
+.fa {
+	padding:5px;
+  font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+	background-color:#337ab7;
+	color:#000;
+	width: 25px;
+	height: 25px;
+}
+.fa:hover{
+	color:#fff;
+	text-decoration: none;
+}
+.inline-block{
+	display: inline-block;
+}
+.play1{
+	widht:110px;
+	height: 35px;
+}
+.footer-last-section {
+    background-color: #050f20;
+    min-width: 1250px;
+    display: inline-block;
+    width: 100%;
+}
+.font-12{
+	font-size: 12px;
+}
+.inline-block{
+	display: inline-block;
+}
+.margin-top-15{
+	margin-top: 15px;
+}
+.companies-logo-footer {
+    margin-left: 5px;
+    padding: 0px 15px 0px 15px;
+}
+
+.carousel-indicators{
+	position: absolute;
+	bottom: -15px;
+	left:50%;
+	z-index: 15;
+	width: 60%;
+	padding-left: 0px;
+	margin-left: -30%;
+	text-align: center;
+	list-style: none;
+}
+ol{
+	margin-top: 0px;
+	margin-bottom: 10px;
+	display: block;
+}
+.carousel-indicators li{
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	margin:1px;
+	text-indent: -999px;
+	cursor:pointer;
+	border:1px solid #fff;
+	border-radius: 10px;
+	background-color:#dcdcdc!important;
+}
+
+.carousel-indicators .active{
+	background-color: #333;
+	width: 12px;
+	height: 12px;
+	margin:0px;
+}
+
+<!--dropdown--->
+.dropdown{
+	position: relative;
+}
+
+.dropdown-menu{
+	margin-top: 23px;
+	min-width: 188px;
+	padding:20px 0px;
+	border:0px;
+	border-radius: 0px;
+	left: -93px;
+	height: 285px;
+	box-shadow: 0px 3px 5px 3px rgba(0,0,0,.175);
+}
+.dropdownhover-bottom{
+	transform-origin:50% 0;
+}
+
+.dropdown-menu{
+	position: absolute;
+	top:100%;
+	z-index: 1000;
+	display: none;
+	float: left;
+	margin: 2px 0 0;
+	font-size: 14px;
+	text-align: left;
+	list-style: none;
+	background-color: #fff;
+	background-clip: padding-box;
+
+}
+ul{
+	 -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+
+}
+
+.triangle-arrow-up{
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	padding:3px;
+	background: #fff;
+	position: absolute;
+
+}
+.triangle-with-shadow{
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	padding: 3px;
+	border:solid #fff;
+	border-width: 0px 1px 1px 0px;
+	left:151px;
+	margin-top:-5px;
+	top:0px;
+
+}
+.up{
+	-webkit-transform:rotate(-136deg);
+}
+li{
+	display:list-item;
+	text-align: -webkit-match-parent;
+}
+.dropdown-menu>li>a{
+	padding:3px 15px;
+	font-size: 14px;
+}
+
+.dropdown-menu>li>a{
+	display: block;
+	clear:both;
+	font-weight: 400;
+	line-height: 1.42857143;
+	color:#333;
+	white-space: nowrap;
+
+}
+.dropdown-menu{
+	margin: 0;
+	right:auto;
+}
+.category-dropdown-menu{
+	top:-20px!important;
+}
+.new-dropdown-menu{
+	left:100%!important;
+	box-shadow: 3px 2px 4px 1px rgba(0,0,0,.175);
+	border-left:1px solid #dcdcdc;
+	height: 285px;
+	width:380px;
+
+}
+.dropdown-menu{
+	min-width: 188px;
+	padding:20px 0px;
+	border:0px;
+	border-radius: 0px;
+	position: absolute;
+	z-index: 1000;
+	display: none;
+	float:left;
+	font-size: 14px;
+	text-align: left;
+	list-style: none;
+	background-color: #fff;
+	background-clip: padding-box;
+
+}
+ol{
+	-webkit-margin-before: 0px;
+    -webkit-margin-after: 0px;
+}
+ul{
+	    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+
+.category-dropdown-selected{
+	border:6px solid #fff;
+	border-color:#5c708b;
+	left:-7x;
+	margin-top: 7px;
+	position: absolute;
+	text-align: right;
+	box-sizing:border-box;
+	transform: rotate(-135deg);
+
+}
+.dropdown-inner-links{
+	display: inline-block;
+	width:48%;
+}
+.inside-dropdown-links{
+	color:#666!important;
+}
+
